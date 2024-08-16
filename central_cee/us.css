@@ -1,0 +1,48 @@
+ * {
+    margin: 0;
+    padding: 0;
+    /* background-image: url(./Central_cee\ \(8\)🖤.jpg); */
+ }
+ body
+   {
+      background: #55ffe5;
+      background-image: url(./Central_cee\ \(8\)🖤.jpg); 
+      font-family: 'poppins','sans-serif';
+   }
+   .input-row
+   {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 20px;
+   }
+ .container
+{
+    width: 80%;
+    margin:  50px auto;
+}
+.contact-box
+{
+     background: #fff;
+     display: flex;
+     /* background-image: url(./Central_cee\ \(8\)🖤.jpg);  */
+}
+.contact-left
+{
+   flex-basis: 60%;
+   padding: 40px 60px;
+}
+.contact-right
+{
+   flex-basis: 40%;
+   padding: 40px;
+   background: #1c00b5;
+   color: white;
+}
+h1 
+{
+   margin-bottom: 10px;
+}
+ .containerp
+[
+   margin-bottom: 40px;
+]
